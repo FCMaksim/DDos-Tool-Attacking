@@ -1,0 +1,7 @@
+
+# The most powerful DoS tool
+Download the File dos-tool1.c to your Desktop
+Open Terminal and type these commands
+cd Desktop
+gcc dos-tool1.c -o dos-tool1
+USAGE : ./dos-tool1 website: www.example.com  port: 80
